@@ -1,0 +1,22 @@
+<style>
+h1{color:red;
+background-color:green;}
+body{background-color:pink;}
+img{border:solid black;}
+.header{
+    display:flex;
+    justify-content:space-between;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:400;    
+    }
+.grid{
+     display:flex;
+     flex-wrap:wrap;
+    font-family:sans-serif;
+}
+.origami{
+    background-color:white;
+    font-family:fantasy;
+}
+</style>
